@@ -1,6 +1,6 @@
 # SolFrag - Game Server
 
-> **Backend server for [SolFrag](https://github.com/code-pankaj/SolFrag)** - a blockchain-based multiplayer FPS game on Solana.
+> **Backend server for [SolFrag](https://github.com/codepankajpy/SolFrag)** - a blockchain-based multiplayer FPS game on Solana.
 
 This is the server-side component that handles real-time multiplayer gameplay, matchmaking, and blockchain integration.
 
@@ -28,6 +28,6 @@ Players → Server → Solana Blockchain
 ## Learn More
 
 For the complete project including the game client and smart contracts, visit:
-[github.com/code-pankaj/SolFrag](https://github.com/code-pankaj/SolFrag)
+[github.com/codepankajpy/SolFrag](https://github.com/codepankajpy/SolFrag)
 
 - Wallet Address Fund Here - 9CWYkYyfhhvJb62mSwpLwWVe8zsu3pg8tpnmV7jyiktw
